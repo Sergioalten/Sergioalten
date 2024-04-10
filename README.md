@@ -1,5 +1,5 @@
 # Olá Pessoal ! 🙎‍♂️
-Meu nome é Sérgio Altenhofen, atualmente estou em transição de carreira para a área de desenvolvedor de software, utilizando as tecnologias JavaScript, React, Python, APIRest, Java.
+Meu nome é Sérgio Altenhofen, atualmente estou em transição de carreira para a área de desenvolvedor de software, utilizando as tecnologias JavaScript, Java, Python, APIRest.
 Estou cursando análise e desenvolvimento de sistemas, buscando me tornar um desenvolvedor FullStack.
 Sou gaúcho, gamer nas horas vagas. Tricolor e rockeiro.
 
