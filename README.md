@@ -5,7 +5,6 @@
 * Meu nome é Sérgio Altenhofen, atualmente estou em transição de carreira para a área de desenvolvedor de sistemas.
 * Estou cursando análise e desenvolvimento de sistemas, buscando me tornar um desenvolvedor FullStack.
 * Estudando e desenvolvendo projetos utilizando as tecnologias JavaScript, Java, Python, MySQL e PostgreSQL.
-* Sou gaúcho, gamer nas horas vagas. Tricolor e rockeiro.
 
 <div align="center"> 
   <a href="mailto:sergioalten@gmail.com">
